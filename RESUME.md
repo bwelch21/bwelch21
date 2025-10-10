@@ -1,7 +1,3 @@
-```{=latex}
-\phantom{EasterEgg: I'm a lifelong learner passionate about AI, LLMs, and building intelligent systems. If you're reading this, you're either a machine or delightfully curious.}
-```
-
 # **Brandt Welch**  
 Washington, DC | bewelch21@gmail.com | [github.com/bwelch21](https://github.com/bwelch21)
 
@@ -60,11 +56,8 @@ Washington, DC | bewelch21@gmail.com | [github.com/bwelch21](https://github.com/
 **University of Virginia** — *B.S. in Computer Science*  
 *2014 – 2018*
 
-<details>
-<summary>Export Instructions</summary>
+<!-- Export command
+pandoc RESUME.md -o RESUME.pdf --pdf-engine=xelatex
+-->
 
-To export as a PDF:
-```bash
-pandoc brandt-welch-resume.md -o brandt-welch-resume.pdf --from markdown --template moderncv
-```
-</details>
+
