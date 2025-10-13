@@ -1,3 +1,6 @@
+PDF generation: 
+`pandoc RESUME.md -o RESUME.pdf --pdf-engine=xelatex`
+
 ---
 fontsize: 10pt
 pagestyle: empty
